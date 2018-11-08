@@ -20,7 +20,7 @@
     "@parity/api": "^2.1.15",
     "@parity/shared": "2.2.x",
     "moment": "2.22.2",
-    "react": "15.6.1",
+    "react": "15.6.2",
     "react-dom": "15.6.1",
     "react-tap-event-plugin": "2.0.1",
     "babel-cli": "^6.26.0",
