@@ -19,7 +19,7 @@
   "devDependencies": {
     "@parity/api": "^5.1.19",
     "@parity/shared": "3.0.x",
-    "moment": "2.24.0",
+    "moment": "2.25.3",
     "react": "15.6.2",
     "react-dom": "15.6.2",
     "react-tap-event-plugin": "2.0.1",
